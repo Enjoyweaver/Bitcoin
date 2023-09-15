@@ -19,12 +19,12 @@ export default function Home() {
         </div>
       </div>
 
-      <div class="center-container">
-          <div class="quote">
+      <div className="center-container">
+          <div className="quote">
               "Human history becomes more and more<br>
               a race between education<br>
               and catastrophe."<br>
-              <span class="author">H.G. Wells</span>
+              <span className="author">H.G. Wells</span>
           </div>
       </div>
                 
