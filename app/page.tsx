@@ -4,14 +4,15 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
-          <p
-            className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 lg:static lg:w-auto  lg:rounded-xl lg:border lg:p-6"
-            style={{
-              backgroundColor: "#14B1F5", // Set the background color
-            }}
-          >
-            Bitcoin Captive Insurance
-          </p>
+        <p
+          className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 pb-4 pt-6 md:pb-6 md:pt-8 backdrop-blur-2xl dark:border-neutral-800 lg:static lg:w-auto  lg:rounded-xl lg:border lg:p-4"
+          style={{
+            backgroundColor: "#14B1F5", // Set the background color
+          }}
+        >
+          Bitcoin Captive Insurance
+        </p>
+
 
         <div className="fixed bottom-0 left-0 flex h-28 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-#14B1F5 dark:via-#14B1F5 lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
