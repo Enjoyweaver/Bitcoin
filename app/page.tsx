@@ -14,15 +14,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
-            <Image
-              src="/indemnifi-logo.png"
-              alt="inDemniFi Logo"
-              className="dark:invert"
-              width={200}
-              height={300}
-              priority
-            />
+            By    <div className="custom-text" id="targetText">in<em>De</em>mni<em>Fi</em></div>
           </a>
         </div>
       </div>
