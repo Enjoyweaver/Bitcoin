@@ -19,8 +19,8 @@ export default function Home() {
               src="/indemnifi-logo.png"
               alt="inDemniFi Logo"
               className="dark:invert"
-              width={100}
-              height={24}
+              width={200}
+              height={300}
               priority
             />
           </a>
