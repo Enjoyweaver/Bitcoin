@@ -26,16 +26,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="custom-text" id="targetText">...of the utmost good faith</div>
-
-        <style jsx>{`
-        @media (max-width: 640px) {
-          .custom-text {
-            margin-bottom: 16px; // Adjust the margin as needed
-          }
-        }
-      `}</style>
-
+        <div className="custom-text" id="targetText" style={{ marginBottom: '16px' }}>
+          ...of the utmost good faith
+        </div>
       
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
