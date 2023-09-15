@@ -36,3 +36,8 @@ body {
     color: blue;
     font-style: normal; 
 }
+.quote {
+    font-size: 40px;
+    font-weight: normal;
+    color: black;
+}
