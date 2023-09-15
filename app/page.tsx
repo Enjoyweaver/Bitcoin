@@ -14,7 +14,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By    <div className="custom-text" id="targetText">in<em>De</em>mni<em>Fi</em></div>
+            <div className="custom-text" id="targetText">in<em>De</em>mni<em>Fi</em></div>
           </a>
         </div>
       </div>
