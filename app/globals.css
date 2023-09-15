@@ -17,10 +17,6 @@
   }
 }
 
-.custom-background {
-  background: linear-gradient(to bottom, #13AC8E, #3C399D);
-}
-
 
 .custom-text {
     font-size: 30px;
@@ -39,6 +35,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background: linear-gradient(to bottom, #13AC8E, #3C399D);
+}
+
 
 }
 .center-container {
