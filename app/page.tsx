@@ -4,7 +4,12 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
-          <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-[#14B1F5] pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-[#14B1F5] dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-[#14B1F5]">
+          <p
+            className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 lg:static lg:w-auto  lg:rounded-xl lg:border lg:p-4"
+            style={{
+              backgroundColor: "#14B1F5", // Set the background color
+            }}
+          >
             Bitcoin Captive Insurance
           </p>
 
