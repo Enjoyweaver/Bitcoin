@@ -16,8 +16,8 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
+              src="/indemnifi-logo.png"
+              alt="inDemniFi Logo"
               className="dark:invert"
               width={100}
               height={24}
