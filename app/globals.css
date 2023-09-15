@@ -56,3 +56,9 @@ body {
     color: #777; /* Author text color */
 }
 
+/* Add a default color for the links and the h2 elements */
+.default-color {
+  color: #A6A6A6
+}
+
+
