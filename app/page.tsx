@@ -31,8 +31,11 @@ export default function Home() {
       <p>
         "Human history becomes more and more a race between education and cataastrophe."
         
-        H.G. Wells</p>
-        
+        H.G. Wells
+      </p>
+        <p className="fixed left-0 top-0 flex w-full justify-center ">
+          Crypto Risk Intelligence
+        </p>
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/banner.png"
