@@ -17,6 +17,9 @@
   }
 }
 
+.custom-background {
+  background: linear-gradient(to bottom, #13AC8E, #3C399D);
+}
 
 
 .custom-text {
