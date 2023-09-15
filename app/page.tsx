@@ -36,7 +36,7 @@ export default function Home() {
           >
         "Human history becomes more and more a race between education and cataastrophe."
         
-        H.G. Wells
+        H.G. Wells{' '}
         
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
