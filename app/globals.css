@@ -36,8 +36,33 @@ body {
     color: blue;
     font-style: normal; 
 }
-.quote {
-    font-size: 40px;
-    font-weight: normal;
-    color: black;
+
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Optional background color */
 }
+
+.center-container {
+    text-align: center;
+}
+
+.quote {
+    font-size: 24px;
+    font-weight: bold;
+    color: black; /* Change the text color as needed */
+    line-height: 1.5; /* Adjust line spacing as needed */
+}
+
+.author {
+    display: block;
+    margin-top: 10px; /* Adjust the margin between the quote and author */
+    font-style: italic;
+    color: #777; /* Author text color */
+}
+
