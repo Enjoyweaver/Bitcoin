@@ -10,7 +10,7 @@ export default function Home() {
             backgroundColor: "#14B1F5", // Set the background color
           }}
         >
-          Bitcoin Captive Insurance
+          Bitcoin Captive Insurance is cool
         </p>
 
 
